@@ -1,4 +1,4 @@
-import os,sys,win32api
+import os,sys
 
 def main():
     try:
